@@ -69,7 +69,7 @@ The following is an analysis of the main steps and outputs of this code:
 # 谣言检测
 	传统的谣言检测模型一般根据谣言的内容、用户属性、传播方式人工地构造特征，而人工构建特征存在考虑片面、浪费人力等现象。本次时间使用CNN、BERT等方法构建谣言检测模型，将文本中的谣言事件向量化来挖掘表示文本深层的特征，可以产生更好的效果
  - **语言**：Python
-- **研究成员**：Patrick Houlihan教授、CIS第二组小组成员：杨思博 、邹茏骅、黄德明、 高晟玮
+- **研究成员**：Patrick Houlihan教授、CIS第二组小组成员
 ## 数据集
 在此感谢
 [https://github.com/thunlp/Chinese_Rumor_Dataset](https://github.com/thunlp/Chinese_Rumor_Dataset)
